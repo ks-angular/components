@@ -1,0 +1,11 @@
+{
+  "name": "@uni-logic/componeents",
+  "version": "0.0.0",
+  "scripts": {
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
